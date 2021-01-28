@@ -1,0 +1,1 @@
+# mono-sprites-for-mono-mod-in-mindustry
