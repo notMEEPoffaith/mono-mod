@@ -1,2 +1,2 @@
 # mono-sprites-for-mono-mod-in-mindustry
-an ezzzzzz
+a repository for the sprites for the mono mod
