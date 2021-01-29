@@ -1,0 +1,24 @@
+type: flying
+name: "Duono"
+description: "Upgraded mono with more health, speed and carrying capacity."
+flying: true
+speed: 1.2
+health: 150
+aimDst: 10
+range: 50
+drag: 0.05
+accel: 0.075
+maxRange: 200
+clipSize: 1
+faceTarget: true
+rotateShooting : true
+mineTier: 2
+mineSpeed: 8
+range: 100
+rotateSpeed: 7
+lowAltitude: false
+omniMovement: true
+canDrown: false
+research: {
+parent: mono
+}
