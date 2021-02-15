@@ -2,7 +2,7 @@ type: flying
 name: "Duono"
 description: "Upgraded mono with more health, speed and carrying capacity."
 flying: true
-speed: 1.2
+speed: 1.7
 health: 150
 aimDst: 10
 range: 50
