@@ -1,2 +1,2 @@
-# mono-sprites-for-mono-mod-in-mindustry
-a repository for the sprites for the mono mod
+# mono-mod
+My first mindustry mod. Is a collab with Sh1penfire!
